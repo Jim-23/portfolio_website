@@ -1,0 +1,10 @@
+
+
+To create and start your Next.js app, run the following command:
+1.	npx create-next-app@latest portfolio  // portfolio is the name of the project, you can change it to whatever you want
+2.	cd portfolio // go to the project folder
+3.	npm run dev // in the project folder, run the project
+
+PS: Don't forget to install Node.js if you haven't already: https://nodejs.org
+
+Happy coding! 🎉
